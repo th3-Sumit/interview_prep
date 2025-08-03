@@ -1,0 +1,20 @@
+1. What is Redux, and why is it used?
+2. What are the core principles of Redux?
+3. What is the difference between Redux and the Context API?
+4. What are actions in Redux, and how are they created?
+5. What is a reducer in Redux, and what is its purpose?
+6. How do you define a store in Redux?
+7. What is the role of the `createStore` function?
+8. What are Redux middleware, and can you name a few examples (e.g., Redux Thunk, Redux Saga)?
+9. How do you handle asynchronous actions in Redux?
+10. What is the purpose of the `connect` function in React-Redux?
+11. What are mapStateToProps and mapDispatchToProps?
+12. How do you use the `useSelector` and `useDispatch` hooks with Redux?
+13. What is the Redux DevTools extension, and how does it help?
+14. How do you structure a Redux application with multiple reducers?
+15. What is the purpose of the `combineReducers` utility?
+16. How do you handle state immutability in Redux?
+17. What are the advantages and disadvantages of using Redux?
+18. How do you implement error handling in Redux?
+19. What is the difference between Redux Thunk and Redux Saga?
+20. How do you optimize performance in a Redux application?

@@ -1,0 +1,50 @@
+1. What is React, and why is it used?
+2. What are the key differences between React and other frameworks like Angular or Vue?
+3. What are the main features of React?
+4. What is JSX, and how does it work in React?
+5. What are components in React, and what are the two types?
+6. What is the difference between functional and class components?
+7. What are React hooks, and why were they introduced?
+8. Explain the `useState` hook with an example.
+9. What is the `useEffect` hook, and how does it handle side effects?
+10. What are the rules of hooks in React?
+11. How do you handle forms in React?
+12. What is the purpose of the `useContext` hook?
+13. What is the difference between `useMemo` and `useCallback`?
+14. How do you optimize performance in a React application?
+15. What is the virtual DOM, and how does it improve performance?
+16. What are props in React, and how do they differ from state?
+17. How do you pass data between components in React?
+18. What is prop drilling, and how can you avoid it?
+19. What are higher-order components (HOCs), and can you provide an example?
+20. What is the `React.memo` function, and when should you use it?
+21. How do you manage state in a React application?
+22. What is the Context API, and how does it work?
+23. What are Redux and its core principles?
+24. How do you connect Redux to a React application?
+25. What is the difference between controlled and uncontrolled components?
+26. How do you handle routing in a React application (e.g., React Router)?
+27. What are React portals, and when would you use them?
+28. How do you test React components (e.g., using Jest and React Testing Library)?
+29. What is the purpose of the `key` prop in lists, and why is it important?
+30. How do you handle errors in a React application?
+31. What are React fragments, and why are they useful?
+32. What is the difference between `componentDidMount` and `useEffect`?
+33. How do you implement lazy loading in React?
+34. What are custom hooks, and how do you create them?
+35. How do you handle authentication in a React application?
+36. What is the significance of the `dangerouslySetInnerHTML` prop?
+37. How do you optimize images and assets in a React app?
+38. What are the lifecycle methods in class components?
+39. How do you integrate third-party libraries in React?
+40. What is the purpose of the `children` prop in React?
+41. How do you handle events in React?
+42. What are the differences between React and Preact?
+43. How do you structure a large-scale React application?
+44. What is the role of the `React.StrictMode` component?
+45. How do you implement server-side rendering (SSR) with React?
+46. What are the benefits of using TypeScript with React?
+47. How do you handle CSS in React (e.g., styled-components, CSS modules)?
+48. What is the difference between state and props drilling?
+49. How do you debug React applications?
+50. What are the latest features introduced in recent React versions (e.g., Concurrent Mode, Suspense)?

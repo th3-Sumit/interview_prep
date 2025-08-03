@@ -1,0 +1,51 @@
+
+1. What is JavaScript, and what are its key features?
+2. What are the differences between `var`, `let`, and `const`?
+3. What is hoisting in JavaScript?
+4. Explain the difference between `undefined` and `null`.
+5. What are closures, and how do they work?
+6. What is the `this` keyword, and how does its value get determined?
+7. What are the different data types in JavaScript?
+8. Explain the concept of event delegation.
+9. What is the difference between `==` and `===`?
+10. What are arrow functions, and how do they differ from regular functions?
+11. What is the purpose of the `async` and `await` keywords?
+12. What are Promises, and how do they handle asynchronous operations?
+13. Explain the event loop in JavaScript.
+14. What is the difference between `setTimeout` and `setInterval`?
+15. What are JavaScript modules, and how do you use them (e.g., `import` and `export`)?
+16. What is the DOM, and how do you manipulate it with JavaScript?
+17. What are higher-order functions, and can you provide an example?
+18. Explain the concept of prototypal inheritance.
+19. What is the difference between `call`, `apply`, and `bind`?
+20. What are JavaScript arrays, and what methods can you use to manipulate them?
+21. How does JavaScript handle memory management and garbage collection?
+22. What is a callback function, and what are callback hell issues?
+23. What are the differences between deep copy and shallow copy?
+24. Explain the use of `try`, `catch`, and `finally` blocks.
+25. What is the purpose of the `strict mode` in JavaScript?
+26. What are generators, and how do they work with the `yield` keyword?
+27. What is the difference between REST and GraphQL APIs in the context of JavaScript?
+28. How do you handle errors in asynchronous code?
+29. What is debouncing, and how can it be implemented?
+30. Explain the concept of pure functions.
+31. What are JavaScript objects, and how do you create them?
+32. What is the difference between `forEach`, `map`, `filter`, and `reduce`?
+33. How do you check if an object has a specific property?
+34. What is the purpose of the `JSON` object in JavaScript?
+35. Explain the concept of immutability in JavaScript.
+36. What are ES6 features, and how have they improved JavaScript?
+37. How do you implement a custom event emitter in JavaScript?
+38. What is the difference between local storage and session storage?
+39. How do you optimize JavaScript code for performance?
+40. What are Web Workers, and when would you use them?
+41. Explain the concept of currying in JavaScript.
+42. What is the difference between a function declaration and a function expression?
+43. How do you handle cross-browser compatibility issues in JavaScript?
+44. What are JavaScript design patterns (e.g., Singleton, Module, Observer)?
+45. How do you use the `fetch` API to make HTTP requests?
+46. What is the purpose of the `Proxy` object in JavaScript?
+47. Explain how to implement a debounce or throttle function.
+48. What are the differences between `WeakMap` and `Map`?
+49. How do you test JavaScript code (e.g., using Jest or Mocha)?
+50. What is the significance of the `use strict` directive at the top of a script?
